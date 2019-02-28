@@ -8,3 +8,7 @@ A Puzzle Game Where You Try To Sort 15 Tiles in Numerical Order
 ### Windows 10
 
 ![Game Of Fifteen](Capture.JPG)
+
+### Ubuntu/Linux
+
+![Game Of Fifteen](linux-Capture.png)
