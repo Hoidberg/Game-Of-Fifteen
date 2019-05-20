@@ -179,7 +179,7 @@ public class GameOfFifteen extends JPanel {
 		if (gameOver) {
 			g.setFont(getFont().deriveFont(Font.BOLD, 18));
 			g.setColor(FOREGROUND_COLOR);
-			String s = "Click to start new game";
+			String s = "Game Over!";
 			g.drawString(s, (getWidth() - g.getFontMetrics().stringWidth(s)) / 2, getHeight() - margin);
 		}
 	}
