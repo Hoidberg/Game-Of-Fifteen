@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<updateDescriptor baseUrl="">
-  <entry targetMediaFileId="58" updatableVersionMin="" updatableVersionMax="" fileName="GameOfFifteen_windows-x64_1_1_0.exe" newVersion="1.1.0" newMediaFileId="58" fileSize="2564096" md5Sum="373333655b962d173a8eb205abc9d307" bundledJre="" archive="false" singleBundle="false">
-    <comment language="en" />
-  </entry>
-</updateDescriptor>
